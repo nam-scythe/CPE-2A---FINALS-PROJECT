@@ -1,1 +1,2 @@
-CPE 6 Finals Project
+CPE 6 - 2A Finals Project
+Arjona, Dacara, Digno
